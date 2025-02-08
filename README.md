@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI, Computer vision**
 
-- 💬 Ask me about **llm,RAG**
+- 💬 Ask me about **llm,RAG,Agent,Agentic Workflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
